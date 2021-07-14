@@ -2966,6 +2966,7 @@ input, select, textarea {
 					overflow: hidden;
 					width: 100%;
 					object-position: center center;
+					height: 500px;
 				}
 
 				.spotlights > section > .image:before {
